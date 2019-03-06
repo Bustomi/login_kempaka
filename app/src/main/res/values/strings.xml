@@ -1,0 +1,652 @@
+<resources>
+
+    <string name="app_name">KEMPAKA</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <array name="angkatan" parent="@android:style/Widget.TextView.SpinnerItem">
+        <item>Alumni</item>
+        <item>Pengurus</item>
+        <item>Anggota</item>
+    </array>
+
+    <string name="sejarah_kempaka">SEJARAH KEMPAKA</string>
+    <string name="ad_kempaka">AD KEMPAKA</string>
+    <string name="adrt_kempaka">ADRT KEMPAKA</string>
+    <string name="struktur_kempaka">STRUKTUR KEMPAKA</string>
+    <string name="adrt">ANGGARAN\n DASAR
+        KELUARGA MAHASISWA PELAJAR KARAWANG
+        (KEMPAKA) BANDUNG RAYA</string>
+    <string name="muqodam">\nMUQADDIMAH</string>
+    <string name="isi">    \nPembangunan nasional pada intinya bertujuan untuk menciptakan masyarakat Indonesia yang adil dan makmur, baik di bidang material maupun di bidang spiritual dengan dinamisasi perubahan dalam mewujudkan cita-cita harus digalakan dan ditingkatkan. \n\nHal ini penting dalam upaya merubah suatu kondisi yang satu ke kondisi yang lebih baik.\n\n
+
+Mahsiswa dan pelajar sebagai modal dasar dan sumber daya insani sudah seharusnya memahami hakikat tujuan pembangunan yang merupakan cita-cita dan harapan seluruh masyarakat.\n\n Hal ini menuntut mahasiswa dan pelajar secara mutlak berperan serta dan berpartisipasi aktif sesuai dengan kemampuan dan potensi yang dimiliki.\n\n Guna mengabdi dan berbakti kepada masyarakat dan bangsa.\n\n
+
+Keterlibatan mahasiswa dan pelajar secara langsung dalam pembangunan tersebut sangat penting kehadirannya dalam memecahkan, merumuskan, dan mencari alternatif pemecahan dari masalah-masalah yang berkembang.\n\n
+
+Selain itu mahasiswa dan pelajar sebagai pemecah masalah (problem solver) perekayasa sosial (social engineer) juga sebagi penerus estapet perjuangan kepemimpinan dan pembangunan nasional sudah sepantasnya untuk mengabdi dan mendarmabhaktikan dirinya kepada nusa, bangsa, dan agama.\n\n
+
+Mengingat bahwa tujuan-tujuan itu dapat dicapai dengan usaha-usaha yang teratur, terencana dan penuh kebijakan serta keorganisasian yang stabil, maka dengan ini kami Mahasiswa Pelajar Karawang menghimpun diri kedalam organisasi yang digerakan dengan pedoman anggaran dasar sebagai berikut.\n\n</string>
+    <string name="bab1">\nBAB I\n
+NAMA, WAKTU DAN TEMPAT\n
+</string>
+    <string name="pasal1">\nPasal 1
+        \nNAMA\n</string>
+    <string name="babisi1">
+Organisasi ini bernama Keluarga Mahasiswa Pelajar Karawang Bandung Raya
+Disingkat KEMPAKA Bandung Raya\n</string>
+    <string name="pasal2">\nPasal 2
+\nWAKTU\n</string>
+    <string name="isi2">KEMPAKA didirikan di Bandung pada tanggal 28 Mei 1967 untuk waktu yang tidak terbatas\n</string>
+    <string name="pasal3">\nPasal 3\n
+TEMPAT KEDUDUKAN\n</string>
+    <string name="isi3">KEMPAKA berkedudukan di Bandung Jawa barat\n</string>
+    <string name="bab2">\nBAB II\n
+AZAS DAN FUNGSI\n</string>
+    <string name="pasal4">\nPasal 4\n
+AZAS
+KEMPAKA Berazaskan:\n</string>
+    <string name="isi4">1.	Ketuhanan Y.M.E\n
+2.	Kemanusiaan yang adil dan beradab\n
+3.	Persatuan Indonesia\n
+4.	Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan perwakilan\n
+5.	Keadilan sosial bagi seluruh rakyat Indonesia\n</string>
+    <string name="pasal5">\nPasal 5\nFUNGSI\n
+</string>
+    <string name="isi5">KEMPAKA Bandung Raya berfungsi sebagai mediator, motivator, komunikator dalam percepatan pembangunan daerah Karawang\n</string>
+    <string name="bab3">\nBAB III\n
+TUJUAN, USAHA DAN SIFAT\n</string>
+    <string name="pasal6">\nPasal 6\n
+TUJUAN\n</string>
+    <string name="isi6">Membentuk sumber daya insani yang bertakwa kepada Tuhan YME, berilmu dan beramal serta sadar akan tanggung jawab terhadap masa depan masyarakat karawang, bangsa dan agama\n</string>
+    <string name="pasal7">\nPasal 7\n
+USAHA\n</string>
+    <string name="isi7">1.	Meningkatkan etos ilmiah dan etos kerja dalam kehidupan bermasyarakat dan bernegara\n
+    2.	Mewujudkan integritas positif-progresif antar mahasiswa, pelajar, pemerintah dan masyarakat\n
+    3.	Mempererat kekeluargaan Mahasiswa dan Pelajar Karawang di wilayah Bandung Raya\n
+    4.	Melaksanakan tujuan organisasi dengan usaha-usaha yang tidak bertentangan dengan azas organisasi.\n</string>
+    <string name="pasal8">Pasal 8\n
+SIFAT\n</string>
+    <string name="isi8">1.	KEMPAKA Bandung Raya adalah organisasi yang bersifat kekeluargaan, pengkaderan generasi muda dan sosial kemasyarakatan\n
+2.	KEMPAKA Bandung Raya sebagai organisasi pelajar dan mahasiswa bersifat independen.\n
+</string>
+    <string name="bab4">\nBAB IV\n
+STRUKTUR ORGANISASI\n</string>
+    <string name="pasal9">Pasal 9\n
+Kekuasaan\n</string>
+    <string name="isi9">Kekuasaan KEMPAKA berada ditangan anggota dan dilaksanakan sepenuhnya melalui  MUBES\n
+</string>
+    <string name="pasal10">Pasal 10\n
+Kepengurusan\n</string>
+    <string name="isi10">Kepengurusan untuk di tingkat pusat dipegang oleh KEMPAKA Bandung Raya dan untuk tingkat perguruan tinggi/wilayah dipegang oleh komisariat dengan masa jabatan selama satu tahun untuk satu periode dan masa tenggang selama tiga bulan.\n</string>
+    <string name="pasal11">Pasal 11\n
+Pelindung</string>
+    <string name="isi11">Pelindung KEMPAKA adalah Musyawarah Pimpinan Daerah (MUSPIDA)</string>
+    <string name="pasal12">\n
+Pasal 12\n
+Dewan Penasehat\n</string>
+    <string name="isi12">1.	Dewan Penasihat merupakan orang yang berhak memberikan nasehat dan saran kepada pengurus baik di minta maupun tidak.\n
+2.	Unsur keanggotaan dewan penasehat diatur dalam Anggaran Rumah Tangga Bab III pasal 14\n</string>
+    <string name="pasal13">Pasal 13\n
+Dewan Pembina\n</string>
+    <string name="isi13">1.	Dewan Pembina merupakan orang yang berhak memberikan nasehat dan saran kepada pengurus baik di minta maupun tidak.
+2.	Unsur keanggotaan dewan Pembina ditentukan ketika MUBES dan diatur dalam Bab III  pasal 15 Anggaran Rumah Tangga
+</string>
+    <string name="bab5">\nBAB V\n
+KEUANGAN\n</string>
+    <string name="pasal14">Pasal 14 \n
+Keuangan KEMPAKA diperoleh dari:\n</string>
+    <string name="isi14">a.	Iuran  anggota
+b.	Bantuan Pemerintah\n
+c.	Donatur Tetap\n
+d.	Usaha-usaha yang sah, halal dan tidak mengikat\n
+</string>
+    <string name="bab6">\nBAB VI\n
+PERMUSYAWARATAN\n</string>
+    <string name="pasal15">Pasal 15\n
+Permusyawaratan KEMPAKA terdiri dari:\n</string>
+    <string name="isi15">a. Musyawarah Besar (MUBES) untuk tingkat Bandung Raya\n
+b. Musyawarah Kerja untuk tingkat Bandung Raya\n
+c. Musyawarah Komisariat\n
+d. Rapat Kerja Komisariat\n
+e. Rapat koordinasi\n
+f. Musyawarah Besar Luar Biasa\n
+g. Musyawarah Komisariat Luar Biasa\n</string>
+    <string name="bab7">\nBAB VII\n
+PERUBAHAN DAN PEMBUBARAN\n</string>
+    <string name="pasal16">\nPasal 16\n</string>
+    <string name="isi16">Perubahan Anggaran Dasar, Anggaran Rumah Tangga dan Pembubaran organisasi hanya dapat dilakukan dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa</string>
+    <string name="bab8">\nBAB VIII\n
+ATURAN TAMBAHAN\n</string>
+    <string name="pasal17">\nPasal 17\n</string>
+    <string name="isi17">a.	Apabila KEMPAKA ternyata harus dibubarkan dengan keputusan Musyawarah Besar maka segala hak dan miliknya diserahkan kepada komisariat-komisariat yang ada.\n
+b.	Hal-hal yang belum diatur dalam Anggaran Dasar ini akan diatur kemudian dalam Anggaran Rumah Tangga\n</string>
+    <string name="anggaranrt"> ANGGARAN\n RUMAH TANGGA
+    KELUARGA MAHASISWA PELAJAR KARAWANG
+    (KEMPAKA) BANDUNG RAYA\n</string>
+    <string name="bab1rt">BAB I\n
+LAMBANG\n</string>
+    <string name="pasal1rt">Pasal 1\n
+LAMBANG KEMPAKA\n</string>
+    <string name="isipasal1rt">Lambang KEMPAKA berbentuk perisai, yang dalam kebudayaan Indonesia dikenal sebagai senjata dalam perjuangan untuk mempertahankan diri demi tercapainya suatu tujuan\n</string>
+    <string name="pasal2rt">Pasal 2\n
+ARTI WARNA\n</string>
+    <string name="isipasal2rt">a.	Biru, berarti makmur oleh ilmu pengetahuan sebagai bekal untuk memajukan bangsa, Negara dan Karawang\n
+b.	Hijau tua, berarti mengartikan bahwa kader kempaka harus mempunyai KeImanan dan KeTaqwaan kepada Tuhan YME\n
+c.	Putih timah, kesucian atas kemurnian sebagai generasi muda yang bersiap diri melanjutkan perjuangan bangsa\n
+d.	Kuning, berarti keluhuran yang penuh optimis dalam menyongsong masa depan yang sangat gemilang\n
+</string>
+    <string name="pasal3rt">Pasal 3\n
+ARTI LAMBANG\n</string>
+    <string name="isipasal3rt">a.	Dua tangkai padi dengan jumlah 28 butir berarti:\n
+- Organisasi KEMPAKA didirikan pada tanggal 28 Mei 1967\n
+- Daerah Kabupaten Karawang sebagai penghasil padi terbesar di Jawa Barat\n
+b.	Empat lembar daun, melambangkan kesuburan daerah Karawang sebagai daerah agraris\n
+c.	Sebuah golok, merupakan pusaka atau senjata orang Karawang yang terkenal patriotik dan berani sejak dahulu\n
+d.	Sebuah kitab, melambangkan ilmu pengetahuan sebagai modal dan pedoman untuk mencapai organisasi yang ber intelektual dan terdidik\n</string>
+    <string name="pasal4rt">Pasal 4\n
+BENDERA\n</string>
+    <string name="isipasal4rt">a.	Background bendera berwarna putih\n
+b.	Terdapat Lambang Kempaka..\n
+c.	Dibawah lambang terdapat kalimat Kempaka Bandung Raya bagi pengurus Bandung Raya, dan Kempaka Komisariat bagi masing-masing pengurus Komisariat.\n
+d.	Untuk Bandung Raya bendera berukuran 100 X 70 Sedangkan untuk Komisariat 85 X 55.\n
+e.	Posisi bendera berbentuk Landscape\n</string>
+    <string name="bab2rt">BAB II\n
+KEANGGOTAAN\n</string>
+    <string name="pasal5rt">Pasal 5\n
+Anggota Biasa\n</string>
+    <string name="isipasal5rt">Mahasiswa dan Pelajar Karawang di Bandung Raya\n</string>
+    <string name="pasal6rt">
+Pasal 6\n
+Anggota Kehormatan\n</string>
+    <string name="isipasal6rt">Orang yang telah berjasa kepada KEMPAKA yang telah ditetapkan oleh pengurus\n</string>
+    <string name="pasal7rt">Pasal 7\n
+Anggota Luar Biasa\n</string>
+    <string name="isipasal7rt">Mahasiswa dan Pelajar yang berasal dari luar Karawang yang telah memenuhi syarat keanggotaan\n</string>
+    <string name="pasal8rt">Pasal 8\n
+Syarat-Syarat Keanggotaan\n</string>
+    <string name="isipasal8rt">Setiap Mahasiswa dan Pelajar yang ingin menjadi anggota baru, mengajukan permohonan serta menyatakan secara tertulis kesediaan mengikuti dan menjalankan Anggaran Dasar dan Anggaran Rumah Tangga serta pedoman-pedoman lainnya\n</string>
+    <string name="pasal9rt">Pasal 9\n
+Hak dan Kewajiban Anggota\n</string>
+    <string name="isipasal9rt">a.	Anggota biasa, anggota kehormatan dan anggota luar biasa mempunyai hak memilih, dipilih, mengajukan usul serta pertayaan dengan lisan maupun tertulis\n
+b.	Setiap anggota berkewajiban mengikuti kegiatan-kegiatan yang dilaksanakan oleh KEMPAKA\n
+c.	Setiap anggota berkewajiban menjaga nama baik organisasi\n
+d.	Membayar iuran anggota\n
+e.	Mentaati anggaran dasar dan anggaran rumah tangga serta peraturan-peraturan yang telah ditetapkan oleh organisasi\n
+</string>
+    <string name="pasal10rt">Pasal 10\n
+Skorsing atau pemecatan\n</string>
+    <string name="isipasal10rt">a. Anggota dapat diskorsing atau diresuffle (pengurus):\n
+1.	Melanggar ketentuan-ketentuan yang telah ditetapkan oleh KEMPAKA\n
+2.	Bertindak merugikan dan mencemarkan nama baik KEMPAKA\n
+b. Anggota berhenti dari keanggotaannya karena:\n
+1.	Telah habis masa studi dan habis masa jabatannya dalam kepengurusan.\n
+2.	Meninggal Dunia\n
+3.	Atas permintaan sendiri atau mengajukan surat permohonan pengunduran diri\n
+4.	Diberhentikan atau diresuffle\n</string>
+    <string name="bab3rt">BAB III\n
+STRUKTUR ORGANISASI\n</string>
+    <string name="pasal11rt">Pasal 11\n
+STATUS, KEKUASAAN DAN WEWENANG\n</string>
+    <string name="isipasal11rt">a.	Musyawarah Besar (MUBES) memegang kekuasaan tertinggi untuk tingkat Bandung Raya
+b.	Musyawarah Komisariat (MUSYKOM) memegang kekuasaan tertinggi untuk tingkat komisariat\n
+c.	Musyawarah Besar dan Musyawarah Komisariat dilaksanakan satu tahun sekali setelah ditetapkanya SK kepengurusan.\n
+d.	Apabila organisasi menghadapi masalah-masalah yang sangat prinsipil, yang berakibat tidak jalannya mekanisme pengurus, dapat dilaksanakan musyawarah besar luar biasa atau musyawarah komisariat luar biasa\n
+e.	Musyawarah Besar dilaksanakan dalam rangka perubahan dan penyempurnaan AD/ART, merumuskan masalah-masalah organisasi mendengarkan dan memberi keputusan atas pembelaan anggota yang diberhentikan secara tidak hormat serta memilih pengurus dengan jalan memilih ketua umum yang merangkap sebagai formatur dan memilih tim formatur. Mendengar, menilai, mengevaluasi dan menetapkan laporan pertanggungjawaban pengurus periode sebelumnya.\n
+f.	Musyawarah Komisariat dilaksanakan dalam rangka memilih ketua umum yang merangkap sebagai formatur dan memilih tim formatur. Mendengar, menilai, mengevaluasi dan menetapkan laporan pertanggungjawaban pengurus komisariat periode sebelumnya.\n</string>
+    <string name="pasal12rt">Pasal 12\n</string>
+    <string name="isipasal12rt">a.	Musyawarah Kerja Bandung Raya dan Rapat Kerja Komisariat dilaksanakan sekurang-kurangnya satu tahun sekali selama periode kepengurusan\n
+b.	Musyawarah Kerja Bandung Raya dan Rapat Kerja Komisariat bertujuan menjabarkan keputusan MUBES dan MUSYKOM dalam bentuk program kerja selama satu periode kepengurusan\n
+c.	Rapat koordinasi dilaksanakan dalam rangka upaya optimalisasi kinerja organisasi dan dilaksanakan sekurang-kurangnya satu bulan sekali\n</string>
+    <string name="pasal13rt">Pasal 13\n</string>
+    <string name="isipasal13rt">1. Kepengurusan KEMPAKA Bandung Raya\n
+a.	1 (satu orang) Ketua Umum\n
+b.	1 (satu orang) Sekertaris Jenderal\n
+c.	1 (satu orang) Bendahara Umum\n
+d.	Lima orang Koordinator Lembaga-lembaga\n
+2. Kepengurusan Komisariat\n
+Kepengurusan komisariat minimal terdiri dari: Ketua, Sekretaris Umum, dan Bendahara\n</string>
+    <string name="pasal14rt">Pasal 14\n
+Dewan Penasehat\n</string>
+    <string name="isipasal14rt">a.	Dewan Penasehat merupakan wadah komunikasi pengembangan organisasi\n
+b.	Saran dan nasehat Dewan Penasehat benar-benar diperhatikan oleh pengurus\n
+c.	Dewan Penasehat adalah orang-orang yang ditentukan oleh pengurus\n</string>
+    <string name="pasal15rt">Pasal 15\n
+Dewan Pembina\n</string>
+    <string name="isipasal15rt">a.	Dewan Pembina merupakan wadah komunikasi pengembangan organisasi\n
+b.	Saran Dewan Pembina benar-benar diperhatikan oleh pengurus\n
+c.	Unsur keanggotaan dewan Pembina ditentukan ketika MUBES\n
+d.	Dewan pembina adalah Alumni dan atau mantan pengurus Kempaka Bandung Raya. \n</string>
+    <string name="bab4rt">BAB IV\n
+KEUANGAN\n</string>
+    <string name="pasal16rt">Pasal 16\n</string>
+    <string name="isipasal16rt">a.	Uang iuran anggota besarnya ditentukan oleh kesepakatan anggota dan pengurus\n
+b.	Bantuan  dari Pemerintah\n
+c.	Usaha-usaha lain yang dilakukan oleh pengurus secara sah dan halal serta tidak mengikat\n
+d.	Donatur\n</string>
+    <string name="bab5rt">BAB V\n
+PERUBAHAN AD/ART\n</string>
+    <string name="pasal17rt">Pasal 17\n</string>
+    <string name="isipasal17rt">Perubahan Anggaran Dasar dan Anggaran Rumah Tangga harus dapat dilaksanakan melalui Musyawarah Besar atau Musyawarah Besar Luar Biasa\n</string>
+    <string name="bab6rt">BAB VI\n
+PEMBUBARAN\n</string>
+    <string name="pasal18rt">Pasal 18</string>
+    <string name="isipasal18rt">Pembubaran KEMPAKA Bandung Raya hanya dapat dilakukan oleh dan harus dilaksanakan melalui Musyawarah Besar dan Musyawarah Besar Luar Biasa\n</string>
+    <string name="pasal19rt">
+Pasal 19</string>
+    <string name="isipasal19rt">Keputusan pembubaran KEMPAKA Bandung Raya sekurang-kurangnya harus disetujui oleh 2/3 peserta musyawarah\n</string>
+    <string name="pasal20rt">Pasal 20\n</string>
+    <string name="isipasal20rt">
+Harta Benda KEMPAKA Bandung Raya setelah dibubarkan harus diserahkan kepada masing-masing komisariat\n</string>
+    <string name="pasal21rt">Pasal 21\n</string>
+    <string name="isipasal21rt">Setiap anggota harus mentaati Anggaran Dasar dan Anggaran Rumah Tangga ini, dan barang siapa yang melanggarnya akan dikenakan sanksi-sanksi organisasi sebagaimana diatur dalam ketentuan-ketentuan sendiri\n</string>
+    <string name="pasal22rt">Pasal 22\n</string>
+    <string name="isipasal22rt">
+Hal-hal yang belum diatur dalam Anggaran Dasar dan Anggaran Rumah Tangga ini akan diatur dan ditentukan oleh pengurus sesuai dengan peraturan organisasi\n</string>
+    <string name="bab7rt">BAB VII\n
+TAMBAHAN\n</string>
+    <string name="pasal23rt">Pasal 23\n</string>
+    <string name="isipasal23rt">Mars KEMPAKA Bandung Raya adalah sebagai berikut\n
+Juang, juang berjuanglah\n
+Keluarga Mahasiswa Pelajar Karawang\n
+Satukan tekad sekuat karang \n
+Menyongsong hari gemilang \n
+
+(Juang, juang berjuanglah\n
+Keluarga Mahasiswa Pelajar Karawang\n
+Rapatkan barisan tabuh genderang\n
+Siaplah untuk berjuang 3X\n
+
+(Reff) \n
+Dengan Kempaka kami berjuang       \n
+Janji, bakti kami\n
+Dengan Kempaka kami berjuang\n
+Langkah, gerak kami\n
+Majulah Jayalah Kempaka 2X Jayalah \n
+
+Kempaka untuk Karawang\n
+</string>
+    <string name="pasal24rt">Pasal 24</string>
+    <string name="isipasal24rt">Tri motto\n
+Tri motto Kempaka adalah Juang jeung Dulur Juang ku Elmu jeung Juang kana Amal Hade \n</string>
+    <string name="gbo">GARIS-GARIS BESAR MEKANISME ORGANISASI\n
+KELUARGA MAHASISWA PELAJAR KARAWANG\n
+(KEMPAKA) BANDUNG RAYA\n
+</string>
+    <string name="isigbo">Organisasi adalah perkumpulan orang yang bekerja sama untuk mencapai tujuan yang dicita-citakan bersama. Oleh karena itu, organisasi harus berdaya guna sesuai dengan mekanisme organisasi yang ada. Garis-garis besar Mekanisme Organisasi (GBMO) sebagai penuntun kader di dalam pelaksanaan organisasi perlu dirumuskan dan ditaati bersama.
+KEMPAKA BANDUNG RAYA sebagai organisasi kedaeran tentunya tidak lepas dari sifat kekeluargaan sebagai ciri khasnya, maka secara yuridis konstitusional dalam membina organisasinya harus mampu melaksanakan setiap programyang mengacu pada semangat kekeluargaan dan nilai-nilai Independensi serta aturan etika organisasi dengan memperhatikan pada :\n
+1.	Landasan Idiil Pancasila\n
+2.	La ndasan Konstitusional (AD/ART dan GBMO)\n
+3.	Landasan strategis (Tujuan Kempaka Bandung Raya BAB III pasal 6 AD)\n
+4.	Landasan Idealis (Sifat Kekeluargaa dan Independen BAB III pasal 8 AD)\n
+5.	Landasan Kultural (Kebhinekaan dalam nilai, serta persamaan persefsi dan tujuan, memberikan kualitas response mengenai begitu pentingnya semangat kekeluargaan)\n
+
+Maka dalam rangka itulah kempaka Bandung Raya menetapkan GBMO Sebagai berikut :\n
+
+BAB I		: Pedoman Kerja Kepengurusan Kempaka Bandung Raya \n
+BAB II 	: Pedoman Administrasi Kesekretariatan \n
+BAB III	: Acuan Pelaksanaan Program (APP)\n
+</string>
+    <string name="bab1gbo">
+BAB I\n
+PEDOMAN KERJA KEPENGURUSAN KEMPAKA BANDUNG RAYA\n</string>
+    <string name="isigbo1">A. Struktur Organisasi Kempaka Bandung Raya\n
+Struktur organisasi KEMPAKA Bandung Raya berbentuk garis dan bersifat fungsional serta merupakan susunan yang terdiri dari fungsi-fungsi dan hubungan-hubungan yang menyatakan keseluruhan kegiatan untuk mencapai suatu sasaran. Berbentuk garis karena organisasi KEMPAKA ini pengurusnya sedikit, maka antara pimpinan dan bawahan mempunyai hubungan langsung, sehingga kesatuan dalam pemikiran dan pelaksanaan kegiatan akan mempermudah pemeliharaan dalam disiplin dan tanggung jawab. Sedangkan bersifat fungsional, karena merupakan suatu organisasi yang berdasarkan pembagian tugasnya serta kegiatannya pada spesialisasi yang dimiliki, serta tidak terlalu menekankan pada hirarki struktural, tetapi lebih pada sifat dan macam fungsi yang perlu dijalankan.\n
+
+B.  Komposisi Pengurus KEMPAKA Bandung Raya\n
+1.	Ketua Umum\n
+2.	Sekretaris Jenderal\n
+3.	Bendahara Umum\n
+4.	Ketua Bidang Internal\n
+5.	Ketua Bidang Eksteranal\n
+6.	Biro Pengkaderan dan Pengembangan Organisasi (BP2O)\n
+7.	Biro Pengembangan Sumber Daya Manusia (BPSDM)\n
+8.	Biro Data Jaringan dan Informasi (BDJI)\n
+9.	Biro Advokasi dan Pengabdian Masyarakat (BAPM)\n
+10.	Biro Pengembangan Ekonomi Kerakyatan (BPEK)\n
+
+C.  STATUS DAN FUNGSI PENGURUS\n
+I.   KETUA UMUM\n
+a.	Bertanggung jawab Penuh atas segala lancarnya kegiatan Organisasi\n
+b.	Menentukan kebijakan-kebijakan yang dianggap perlu\n
+c.	Mengkoordinir Kegiatan para ketua\n
+d.	Mengevaluasi kegiatan yang telah dilakukan\n
+e.	Melaksanakan Amanat Musyawarah secara murni dan konsekuen\n
+
+II. KETUA-KETUA BIDANG\n
+a.	Penanggungjawab dan Kordinator bidang kerja dalam pelaksanaan tugas-tugas bidang\n
+b.	Bertanggung jawab kepada ketua umum dan berhak mewakilinya dalam tugas internal bidangnya\n
+c.	Perencana organisator seluruh aktivitas pengurus bidangnya\n
+d.	Bersama sekertaris jenderal atau wakil sekertaris jenderal menandatangani surat-surat bidangnya\n
+
+III. SEKRETARIS JENDERAL\n
+a.	Mengkoordinir segala bidang kesekretariatan\n
+b.	Mendampingi ketua umum dalam menentukan kebijakan organisasi\n
+c.	Menyelenggarakan dan mengadakan alat-alat administrasi yang lengkap serta memadai sebagai wadah organisasi\n
+d.	Menginvertarisir alat-alat administrasi dan dokumentasi\n
+e.	Mengkoordinir pendokumentasian sejarah KEMPAKA dari masa ke masa\n
+f.	Membawahi sekretaris bidang dalam mengelola bidang kesekretariatan\n
+g.	Bersama ketua umum atau ketua bidang menandatangi surat-surat organisasi\n
+
+IV.  BENDAHARA UMUM\n
+a.	Bertanggung jawab pada ketua umum dalam bidang keuangan\n
+b.	Penanggung jawab dan koordinator kegiatan bidang administrasi keuangan dan kelengkapan organisasi\n
+c.	Bersama ketua umum menandatangani surat-surat yang berhubungan dengan keuangan\n
+d.	Membuka dan mengelola rekening KEMPAKA Bandung Raya\n
+
+VII. BIRO-BIRO\n
+1.	Biro Pengkaderan dan Pengembangan Organisasi (BP2O)\n
+a.	Bertanggung jawab pada ketua umum pada bidang pengkaderan dan pengembangan organisasi.\n
+b.	Bertanggung jawab atas kader-kader di setiap komisariat.\n
+c.	Membuat rekrutmen calon pengurus Kempaka Bandung Raya.\n
+d.	Membuat kegiatan yang menunjang kualitas kader didalam Organisasi.\n
+2.	Biro Pengembangan Sumber Daya Manusia (BPSDM)\n
+a.	Membuat agenda acara untuk meningkatkan keseibangan SDM.\n
+b.	Meninjau kemampuan-kemampuan yang ada pada SDM di Kempaka.\n
+c.	Mengembangkan dan meningkatkan SDM melalui Materi-Materi kajian diskusi.\n
+3.	Biro Data Jaringan dan Informasi (BDJI)\n
+a.	Pembaruan dan pengembangan database setiap setiap kader di Komisariat dan Alumni.\n
+b.	Menjalin Komunikasi dan Informasi antar Komisariat.\n
+4.	Biro Advokasi dan Pengabdian Masyarakat (BAPM)\n
+a.	Mengikut Sertakan Kempaka dalam mengawal setiap kebijakan dan kinerja pemerintah secara struktural dan sistematis.\n
+b.	Membuat acara pengabdian Masyarakat.\n
+5.	Biro Pengembangan Ekonomi Kerakyatan (BPEK)\n
+a.	Bertanggung jawab pada ketua umum dalam melaksanakan tugasnya pada pengembangan ekonomi kerakyatan pada anggota kempaka.\n
+b.	Menggalangkan kas Kempaka sekurang-kurangnya ¼ untuk pengembangan ekonomi kerakyatan.\n
+c.	Hasil dari pengembangan ekonomi diserahkan kembali kepada bendahara umum.\n
+
+D. HAK DAN KEWAJIBAN PENGURUS\n
+a.	memberikan pendapat, usul atau saran kepada pengurus KEMPAKA Bandung Raya dan pengurus KEMPAKA komisariat terutama yang berkaitan dengan fungsi dan peranan anggota\n
+b.	menampung dan menjalankan aspirasi anggota KEMPAKA Bandung Raya\n
+c.	Menjalankan ketetapan-ketetapan Mubes dan Musykom sebagai amanat organisasi\n
+
+E. TATA KERJA PENGURUS\n
+1. Instansi Pengambilan Keputusan\n
+a. Sidang Pleno\n
+1. Sidang Pleno dilaksanakan sekurang-kurangnya enam bulan sekali\n
+2. Sidang Pleno dihadiri oleh pengurus KEMPAKA Bandung Raya\n
+3. Fungsi dan Wewenang Sidang Pleno:\n
+a.	Membahas laporan pengurus KEMPAKA Bandung Raya tentang pelaksanaan ketetapan-ketetapan MUBES dan MUSKOM\n
+b.	Mendengar laporan rapat ketua bidang\n
+c.	Mengambil kebijakan-kebijakan dan menyelesaikan masalah-masalah yang mendasar, baik keluar maupun kedalam\n
+
+b. Musyawarah Kerja\n
+1.	Musyawarah kerja diklaksanakan sekurang-kurangnya satu kali dalam masa kepengurusan\n
+2.	Musyawarah kerja dihadiri oleh pengurus KEMPAKA Bandung Raya\n
+3.	Fungsi dan Wewenang Rapat Kerja:\n
+- Menyusun program kegiatan serta anggaran biaya\n
+- Menyusun schedule Time\n
+- Merumuskan prioritas program\n
+- Melaksanakan kebijakan teknis bagi kelancaran kegiatan\n
+
+c. Rapat harian\n
+1.	Rapat Harian dilaksanakan sekurang-kurangnya satu kali dalam sebulan\n
+2.	Rapat Harian dihadiri oleh seluruh pengurus KEMPAKA Bandung Raya\n
+3.	Fungsi dan Wewenang Rapat Harian:\n
+-	Mengevaluasi program kerja\n
+-	Mengambil keputusan tentang perkembangan KEMPAKA Bandung Raya sehari-hari baik internal maupun eksternal\n
+-	Menyelesaikan masalah aktual pada minggu berjalan\n
+-	Mendengar laporan dari seluruh anggota KEMPAKA Bandung Raya\n
+
+d. Rapat Pengurus\n
+1.	Rapat Pengurus dilaksanakan sekurang-kurangnya satu kali dalam sebulan\n
+2.	Rapat Pengurus dihadiri oleh pengurus KEMPAKA Bandung Raya\n
+3.	Fungsi dan Wewenang Rapat Pengurus:\n
+-	Mengontrol pelaksanaan kerja yang dilakukan oleh setiap bidang\n
+-	Membuat penyesuaian kerja dari setiap bidang yang mengalami perubahan baik teknis maupun pelaksanaannya\n
+-	Menyelesaikan masalah aktual pada minggu berjalan\n
+
+2.  Mekanisme Resuffle pengurus\n
+     a. Pengambilan Keputusan\n
+1.	Resuffle pengurus dilakukan dalam sidang pleno atau rapat pengurus KEMPAKA Bandung Raya\n
+2.	Masing-masing sebagai peserta sidang memiliki hak bicara\n
+3.	Resuffle dilakukan oleh ketua umum atas aspirasi anggota yang berkembang\n
+
+
+b. Dasar Pertimbangan Resuffle\n
+1.	Setiap pengurus yang  tidak sanggup menjalankan tugasnya\n
+2.	Setiap pengurus yang sudah selesai masa studinya\n
+3.	Memohon pengunduran diri dari jabatannya\n
+4.	Setiap pengurus yang mencemarkan nama baik organisasi\n
+</string>
+
+    <string name="bab2gbo">BAB II\n
+PEDOMAN ADMINISTRASI KESEKRETARIATAN\n
+    </string>
+    <string name="isibab2gbo">
+A. KETENTUAN UMUM\n
+1. 	Surat yang dikeluarkan organisasi menggunakan kode-kode sebagai berikut:\n
+A: Kode surat ke dalam organisasi\n
+B: Kode surat ke luar oraganisasi\n
+2. 	Bentuk-bentuk surat organisasi adalah sebagai berikut:\n
+a.	Surat Undangan\n
+b.	Surat Permohonan\n
+c.	Surat Keterangan\n
+d.	Surat Mandat atau Kuasa\n
+e.	Surat Pernyataan\n
+f.	Surat Keputusan\n
+g.	Surat Izin\n
+h.	Surat Tugas\n
+3.    Semua surat yang dikeluarkan, kode bulannya ditulis dengan menggunakan angka romawi serta tahun masehi\n
+Contoh: Sekretaris Jenderal untuk pengurus Bandung Raya dan Sekretaris umum untuk pengurus Komisariat, mengirim surat kepada anggota, maka kode yang dipakai adalah:\n
+Nomor: 01/B/Sekjen-KEMPAKA Bdg-Ry/I/2014\n
+Nomor: 01/B/Sekum-KEMPAKA Kom-…/I/2014\n
+4.  Nomor surat yang dikeluarkan harus berurutan dan berlaku secara keseluruhan dikoordinatori oleh sekretaris Jendral dan sekretaris Umum\n
+Contoh: Surat Keputusan
+Nomor: 01/B/SK/Sekjen/I/2014\n
+Nomor: 01/B/SK/Sekum/I/2014\n
+5.	Ukuran Surat yang dikeluarkan harus sesuai dengan ukuran yang sudah ditentukan Contoh : ukuran surat Kertas yang digunakan dalam kegiatan surat menyurat KEMPAKA adalah kertas warna putih ukuran legal (F4) Margin yang digunakan Top : 2,54 cm Buttom : 2,54 cm Left : 2,54 cm Right : 2,54 cm. Line space 1,5.
+6.	Keterangan Kop Surat :\n
+a.	Tulisan dalam kop surat menggunakan huruf Times New Roman dengan ukuran font yang berbeda-beda.\n
+b.	Barisan awal tulisan PENGURUS atau PANITIA menggunakan huruf tebal warna BIRU dengan ukuran font 16.\n
+c.	 Tulisan Keluarga Mahasiswa Pelajar Karawang menggunakan huruf tebal warna BIRU dengan size font 16.\n
+d.	Tulisan Keluarga Mahasiswa Pelajar Karawang dengan bahasa inggris ditulis cetak miring mengunakan huruf tebal warna BIRU ukuran font 10\n
+e.	Tulisan nama BANDUNG RAYA atau KOMISARIAT menggunakan huruf tebal warna BIRU dengan ukuran font 12.\n
+f.	Sekretariat, kontak, web, dan email ditulis dengan jelas ditulis cetak miring dan benar kecuali kontak. menggunakan warna hitam ukuran font 9.\n
+g.	Garis pembatas kop surat berwarna hitam dengan ukuran, 4,5 pt (dua garis atas tipis bawah tebal),\n
+h.	Kop surat menggunakan line space 1,15 untuk kop surat pengurus dan kepanitian ditingkat Bandung Raya.\n
+i.	Kop surat menggunakan line space 1,0 untuk kop surat yang dikeluarkan bidang dari bandung raya hingga komisariat, pengurus komisariat, kepanitian komisariat.\n
+j.	Terakhir kop bagian bawah surat bertuliskan  “Juang Jeung Dulur, Juang Ku Elmu, Jeung Juang Kana Amal Hade “   menggunakan hurup monotype corsiva ukuran font 10 warna BIRU.\n
+
+B. KETENTUAN KHUSUS\n
+Contoh surat khusus untuk sertifikat, piagam dan yang sejenisnya\n
+Contoh:\n
+Nomor: 01/A/Pan.Mapak-KEMPAKA Bdg-Ry/I/2014\n
+Nomor: 01/A/Pan.Mapak KEMPAKA Kom-…/I/2014\n
+</string>
+    <string name="bab3gbo">BAB III\n
+ACUAN PELAKSANAAN PROGRAM (APP)
+KEMPAKA BANDUNG RAYA\n</string>
+    <string name="pendahuluan">A. PENDAHULUAN</string>
+    <string name="isibab3gbo">KEMPAKA Bandung Raya merupakan organisasi kekeluargaan yang sudah tentu memiliki kegiatan berskala besar dan penting bagi pengembangan dan kemajuan-kemajuan organisasi. Kegiatan tersebut merupakan konsekuensi dari aktivitas keorganisasian KEMPAKA Bandung Raya, dan kegiatan tersebut ada yang bersifat BAKU, yaitu kegiatan yang harus dilaksanakan dalam setiap satu masa bhakti kepengurusan, juga ada kegiatan yang bersifat INSIDENTAL, yaitu kegiatan yang berdasarkan atas perkembangan situasi pada masa kepengurusan berjalan, semua kegiatan tersebut diamanatkan dalam Musyawarah Besar (MUBES) untuk tingkat kepengurusan Bandung Raya dan Musyawarah Komisariat (MUSYKOM) untuk tingkat kepengurusan komisariat, yang kemudian ditindaklanjuti dalam Musyawarah Kerja (MUKER) untuk Bandung Raya dan Rapat Kerja (RAKER) untuk Komisariat.\n
+Salah satu ukuran keberhasilan suatu kegiatan, umumnya dilihat dari pencapaian tujuan, tujuan kegiatan tersebut sebagai tujuan jangka pendek juga tujuan jangka panjang. Materi kegiatan yan terarah merupakan salah satu faktor yang mendukung keberhasilan pencapaian kedua tujuan di atas, di samping faktor-faktor lain yang tidak kalah signifikannya, maka untuk itulah pembahasan Acuan Pelaksanaan Program (APP) ini disusun.\n
+Materi Acuan Pelaksanaan Program terdiri dari:\n
+A. Pendahuluan\n
+B. Maksud dan Tujuan\n
+C. Kerangka APP\n
+D. Penutup\n</string>
+    <string name="tujuan">B. MAKSUD DAN TUJUAN\n</string>
+    <string name="isitujuan">Acuan Pelaksanaan Program (APP) ini disusun dengan maksud sebagai frame of reference materi-materi dalam seluruh kegiatan KEMPAKA Bandung Raya untuk mewujudkan KEMPAKA Bandung Raya yakni: Membentuk sumber daya insani yang bertaqwa kepada Tuhan YME, berilmu dan beramal serta sadar akan tanggung jawab masa depan masyarakat karawang, bangsa dan agama.\n</string>
+    <string name="kerangka">
+C. KERANGKA ACUAN PROGRAM\n</string>
+    <string name="bidangint">I. Bidang Internal\n</string>
+    <string name="isikerangka">Bidang Internal adalah fokus kegiatan organisasi untuk penguatan kelembagaan dan pengembangan wacana intelektual, yang bertanggung jawab dalam kegiatan ini adalah Ketua Bidang Internal dengan Kerangka Materi Kegiatan terdiri dari:\n
+1.	Merumuskan strategi penguatan dan pengembangan organisasi\n
+2.	Merumuskan format kaderisasi berbasis kampus\n
+3.	Membangun sinergi jaringan kerja koordinator komisariat\n
+4.	Meningkatkan kemampuan berorganisasi dan kepemimpinan anggota\n
+</string>
+    <string name="bidang2">II. Bidang Eksternal\n</string>
+    <string name="isibidang2">Bidang Eksternal adalah fokus kegiatan organisasi untuk penguatan dan pengembangan jaringan kelembagaan, yang bertanggung jawab dalam kegiatan ini adalah Ketua Bidang Eksternal dengan Kerangka Materi Kegiatan terdiri dari:\n
+1.	Memelihara dan mengembangkan jaringan organisasi\n
+2.	Meningkatkan aksesibilitas organisasi terhadap lembaga-lembaga pengambil kebijakan publik\n
+3.	Mengakses dinamika perkembangan sosial kemasyarakatan dan membangun jaringan kerja antar lembaga masyarakat\n
+4.	Melakukan studi Penelitian dan pengembangan masyarakat\n</string>
+    <string name="bse">
+III. BANDUNG SAFARI EDUKASI (BASE) PROGRAME\n</string>
+    <string name="pengertian">a. Pengertian\n</string>
+    <string name="isipengertian">Bandung Safari Edukasi (BASE) Programe merupakan salah satu program KEMPAKA Bandung Raya, di bawah Biro Pengkaderan dan Pengembangan Organisasi (BP2O). kegiatan ini dimaksudkan sebagai sarana bagi siswa/I SMU dan sederajat yang berdomisili di Karawang dalam hubungannya dengan minat mereka melanjutkan studi mereka keperguruan tinggi di Bandung\n
+b. Waktu Pelaksanaan\n
+Program ini dilaksanakan menjelang dilaksanakannya UAN SMA\n</string>
+    <string name="acuan">c. Acuan Program\n</string>
+    <string name="isiacuan">Program ini sebagai salah satu program kerja yang bersifat eksternal , yang memiliki muatan materi sebagai berikut:\n
+1.	Memberikan motivasi kepada siswa/I SMA atau Sederajat untuk melanjutkan studi keperguruan tinggi\n
+2.	Menginformasikan tentang beberapa perguruan tinggi yang berada di wilayah Bandung serta menjelaskan jurusan-jurusan pada perguruan tinggi yang dimaksud\n
+3.	Menginformasikan tentang keberadaan KEMPAKA Bandung Raya\n</string>
+    <string name="wekend">IV. WEEKEND FAMILY AND INAUGURATION NIGHT</string>
+    <string name="pengertian1">a. Pengertian\n</string>
+    <string name="isipengertian1">Weekend Family and Inauguration Night merupakan salah satu program KEMPAKA Bandung Raya, di bawah tanggung jawab Ketua (BPSDM) dimaksudkan sebagai, momen berkumpulnya anggota KEMPAKA Bandung Raya dengan seluruh Pengurus.\n
+Kegiatan ini lebih bersifat akrabisasi, rekreasi dan orientasi bagi Mahasiswa dan Pelajar asal Karawang di Bandung Raya. Di samping dimaksudkan sebagai wadah untuk memperkenalkan mereka dan memberikan pemahaman tentang pentingnya mengikat tali kekeluargaan melalui organisasi sekaligus pengesahan Anggota Baru.\n</string>
+    <string name="pelaksaan">b. Waktu Pelaksanaan\n</string>
+    <string name="isipelaksanaa">
+Weekend Familiy and Inauguration Night dilaksanakan satu tahun sekali setelah Masa Penerimaan Anggota Kempaka (MAPAK) ditingkat Komisariat\n
+    </string>
+    <string name="acuanpro">c. Acuan Program\n</string>
+    <string name="kegiatan">
+Kegiatan ini dilaksanakan oleh satu kepanitiaan yang dibentuk untuk itu dengan acuan program sebagai berikut:\n
+2.	Dilakukan di alam terbuka atau ditempat wisata\n
+3.	Sebagai ajang rekruitment dan Orientasi bagi Anggota Baru\n
+4.	Sebagai salah satu jalur koordinasi KEMPAKA se-Bandung Raya\n
+5.	Konsolidasi sesama anggota KEMPAKA Bandung Raya dan antar anggota dengan pengurus\n
+6.	Bermaterikan acara formal dan informal organisasi\n</string>
+    <string name="diesnatalis">V. DIES NATALIS KEMPAKA\n</string>
+    <string name="peng">a. Pengertian</string>
+    <string name="isipeng">Dies Natalis KEMPAKA merupakan salah satu program KEMPAKA Bandung Raya yang ditanggung jawabi oleh (BPSDM). Kegiatan ini dimaksudkan sebagai ajang refleksi masal organisasi.\n</string>
+    <string name="wkpel">b. Waktu Pelaksanaan</string>
+    <string name="tgl">Dies Natalis KEMPAKA dilaksanakan setiap tanggal 28 Mei</string>
+    <string name="ap">c. Acuan Program\n</string>
+    <string name="keg">Kegiatan ini dilaksanakana oleh satu kepanitiaan yang dibentuk untuk itu, dengan acuan program sebagai berikut:
+1.	Dilaksanakan di Karawang dengan melibatkan seluruh organisasi yang ada di Karawang
+2.	Sebagai sarana sosialisasi gagasan dan pemikiran KEMPAKA
+3.	Sebagai sarana apresiasi seni dan budaya bagi masyarakat Karawang</string>
+    <string name="tl">VI. KEMPAKA TRAINING LEADERSHIP</string>
+    <string name="penger">a. Pengertian</string>
+    <string name="mer">Merupakan ajang latihan kepemimpinan bagi warga Kempaka yang telah disahkan.
+KTL dilaksanakan dan ditanggung jawabi oleh BP2O dan dilaksanakan sebanyak dua kali dalam satu Masa Bhakti Kepengurusan</string>
+    <string name="acp">c. Acuan Program\n</string>
+    <string name="kegi">Kegiatan ini merupakan lanjutan dari Orientasi Anggota dan salah satu kegiatan latihan kepemimpinan bagi anggota Kempaka yang bertujuan untuk menciptakan kader-kader KEMPAKA unggulan, adapun acuan programnya adalah:\n
+1.	Sebagai sarana untuk latihan menjadi Leader Unggulan\n
+2.	Memberikan teori-teori kepemimpinan masa depan\n
+3.	Kegiatan ini berisi ceramah, latihan praktis, diskusi, dan permainan\n
+4.	Kegiatan ini diharapkan dapat mencetak pemimpin KEMPAKA selanjutnya\n</string>
+    <string name="bm">VII. BAKTI MAHASISWA (CIVIC EDUCATION)\n</string>
+    <string name="bakmah">Bakti Mahasiswa adalah program regular KEMPAKA Bandung Raya dalam setiap periode kepengurusan. Program ini berskala besar bagi kaderisasi dan menambah pengalaman praktis bagi setiap anggota. Bakti mahasiswa berarti bukti konkrit dan partisipasi aktif KEMPAKA Bandung Raya terhadap pembangunan daerahnya terutama di bidang sosial kemasyarakatan\n</string>
+    <string name="bakmas">Bakti mahasiswa biasanya dilaksanakan pada masa liburan, dimaksudkan agar waktunya tidak bersebrangan dengan perkuliahan, juga dimaksudkan agar seluruh anggota mahasiswa KEMPAKA Bandung Raya dapat mengikutinya.\n</string>
+    <string name="bidsos">Program ini merupakan program kerja Lembaga Advokasi dan Pengabdian Masyarakat (LAPM) dengan muatan materi sebagai berikut:\n
+2.	Sebagai bukti konkrit kepedulian dan peran aktif KEMPAKA Bandung Raya terhadap pembangunan daerah terutama di bidang sosial kemasyarakatan\n
+3.	Dilaksanakan di wilayah Karawang\n
+4.	Sebagai ajang sosialiasasi anggota KEMPAKA Bandung Raya dengan Masyarakat Karawang\n
+5.	Membantu Program Pemerintah Kabupaten Karawang\n</string>
+    <string name="hbh">VIII. HALAL BIL HALAL\n</string>
+
+    <string name="idfit">Halal Bil Halal dilaksanakan selambat-lambatnya dua minggu setelah I`dul Fitri\n</string>
+    <string name="wahana">Program ini merupakan wahana pertemuan massal antar anggota, alumni, unsur pemerintah dan Masyarakat.\n</string>
+    <string name="penutup">D. PENUTUP\n</string>
+    <string name="isipenutup">Demikianlah Acuan Pelaksanaan Program (APP) KEMPAKA Bandung Raya ini disusun untuk dijadikan acuan program bagi penyelenggaraan kegiatan-kegiatan KEMPAKA Bandung Raya. Keberhasilan pelaksanaan kegiatan terserbut tergantung pada sikap professional dan semangat pengabdian serta kesadaran seluruh pengurus dan anggota KEMPAKA Bandung Raya sebagai pelaksana kegiatan.
+\n</string>
+    <string name="apa">Merupakan program regular yang ditanggung jawabi oleh (BP20)dan dilaksanakan oleh kepanitiaan khusus\n</string>
+
+    //sejarah
+    <string name="pernyataan">PERNYATAAN KRONOLOGI \n Sejarah KEMPAKA Bandung Raya\n</string>
+    <string name="sejarah">Keluarga Mahasiswa Pelajar Karawang (KEMPAKA) Bandung Raya yang didirikan pada tanggal 28 Mei 1967 adalah sebuah organisasi kemahasiswaan yang terikat oleh rasa kedaerahan yang bertujuan untuk memupuk tali persaudaraan diantara mahasiswa asal Karawang dan berusaha memformat insan akademis terhadap keadilan dan mempunyai rasa peduli yang tinggi terhadap daerah Karawang dan segala problematika sosial, politik, ekonomi dan segala potensi ril yang ada dalam individu mahasiswa asal Karawang.
+        Kempaka Bandung Raya dalam kiprahnya sebagai organisasi kedaerahan selalu mencoba mewujudkan program-program sinergis dalam mewujudkan sumber daya insani yang bertakwa kepada Tuhan YME, berilmu dan beramal serta sadar akan tanggung jawab terhadap masa depan masyarakat Karawang, bangsa dan agama.
+Sebagai organisasi pengkaderan yang memiliki visi meningkatkan kualitas dan kuantitassense of  belonging (rasa memiliki) para anggotanya terhadap kemajuan Kabupaten Karawang dalam berbagai hal, baik itu yang berhubungan dengan pembangunan secara materiil, maupun pembangunan sumber daya manusia (moriil dan spiritual) yang kemudian akan menentukan tinggi-rendahnya tingkat IPM (Indeks Pembangunan Masyarakat) suatu daerah. Hingga akhirnya usaha-usaha untuk meningkatkan kualitas SDM terutama segala hal yang menyangkut pengetahuan dan wawasan yang selaras dan berkesinambungan dengan niat pembangunan Kabupaten Karawang, merupakan hal yang mutlak bagi siapapun terutama bagi organisasi yang berbasis akademik seperti KEMPAKA.
+            \nPada catatan sejarah perjalanan KEMPAKA di era 90-an KEMPAKA terbagi menjadi dua, KEMPAKA Jatinangor dan KEMPAKA UIN. Sampai pada tahun 1999 diadakan kongres pertama untuk menyatukan keduanya dengan nama KEMPAKA Bandung raya sebagai bentuk inisiasi penguatan gerakan mahasiswa asal karawang di bandung dalam satu langkah.\n</string>
+    <string name="naon">naon</string>
+    //sambutan
+    <string name="sambutan">SAMBUTAN KETUA UMUM \n
+KEMPAKA BANDUNG RAYA\n
+Assalamu’alaikum Wr. Wb.\n\n</string>
+    <string name="isisam">\nAlhamdulillah, alladzi arsala rosulahu bil huda wa dinil haq. Liyuzhhirohu alad dini kullihi. Wa kafa billahi syahida. Asyhadu alla ilaha illallah, wahdahu laa syarikalah. Wa asyhadu anna Muhammadan abduhu wa rosuluhu, amma ba du.\n
+
+\nPuju syukur mari kita panjatkan kepada Allah SWT, yang telah memberikan kita nikmat Iman, nikmat Islam bagi kita semua. Sholawat bertangkaikan salam, bebuahkan doa, berakarkan cinta dan kasih sayang , tercurah limpahkan kepada junjungan kita semua Nabi besar Muhammad SAW tak lupa pula kepada keluarga, sahabat, tabi;in dan kita selaku umatnya sampai akhir zaman.
+Atas berkat dan rahmatnya pula KEMPAKA BANDUNG RAYA dapat menerbitkan suatu Aplikasi yang mana ini adalah panduan untuk ber-KEMPAKA.\n
+
+Ikhtiar menerbitkan Aplikasi berisikan informasi yang fundamental dalam ber-KEMPAKA ini merupakan bagian yang tak terpisahkan dari Tujuan KEMPAKA sendiri yang tertuang dalam Ad/Art Bab III Pasal 6 tentang tujuan “Membentuk sumber daya insani yang bertakwa kepada Tuhan YME, berilmu dan beramal serta sadar akan tanggung jawab terhadap masa depan masyarakat karawang, bangsa dan agama”. Sejak didirikannya pada tanggal 28 Mei 1967 di Bandung, KEMPAKA lantastumbuh kembang hingga dewasa ini, dimana para alumni KEMPAKA dari waktu-ke waktu terus bertambah.mereka mengabdi diberbagai ranah kehidupannya.
+\n
+\nAplikasi informasi ini akan mengupas semua pertanyaan yang menjadi gundah gulana setiap kader KEMPAKA BANDUNG RAYA, menjadikan kader KEMPAKA memahami apa yang menjadi tujuan KEMPAKA saat ini. Sehingga terciptanya kesepahaman bersama bahwa KEMPAKA BANDUNG RAYA ialah OrganisasiPrimordial Kedaerahan yang patut untuk diperhitungkan Bangsa, Negara dan Agama.
+Kini KEMPAKA BANDUNG RAYA telah berusia 50 Tahun, semoga organisasi ini senantiasa eksis dan terus mampu berkiprah untuk memberikan yang terbaik bagi Umat dan Bangsa. Selamat membaca, semoga tulisan-tulisan dalam Aplikasi Informasi ini bermanfaat bagi kita semua. Amiin ya Allah yaRobbal Alamiin.
+KEMPAKA RUMAH KITA, KEMPAKA UNTUK KARAWANG,\n
+Juang jeung dulur, juang ku elmu, jeung juang kana amal hade.
+\n
+Wallahul Muwafiq Ila Aqwamith Thariq
+Wassalamu’alaikum Wr,Wb
+\n
+Karawang, 23 November 2017 \n
+
+Muhamad Rizki
+\n
+</string>
+    <string name="arah_gerak">\nARAH GERAKAN KEMPAKA Bandung Raya\n
+</string>
+    <string name="muq">MUQADDIMAH\n</string>
+    <string name="isilah">KEMPAKA Bandung Raya adalah sebuah organisasi yang resmi terlahir dari golongan rantau muda karawang yang sedang menjalankan studi akademik di wilayah Jawa Barat (Bandung). Maka hubungan antara KEMPAKA Bandung Raya dan kaum rantau muda karawang bagaikan ibu dan anak dalam satu keluarga, yang menjadi muara lautan; tempat berlindung, berkreasi, berekspresi, menggali potensi diri serta transformasi ide dan gagasan terhadap karawang. Juga selain dari pada itu, yang tak kalah penting adalah KEMPAKA Bandung Raya  merupakan tempat pusaran rasa sebangsa dan setanah air sebagai sinergitas perjuangan kebangsaan menuju kulminasi tujuan yang sama dan dengan idiologi yang sama yaitu semangat kekeluargaan dan kebangsaan.
+\n
+Mahasiswa dan pelajar di sisi KEMPAKA Bandung Raya merupakan gadis cantik nan ayu, yang selalu dilirik dan disapa (komunikasi) oleh ibunya di setiap pagi, siang dan malam, yang membawa berjuta harapan keluarga yang dicita-citakan untuk masa depan. Oleh karenanya dalam perjalanannya, KEMPAKA Bandung Raya haruslah mengesampingkan virus superioritas, ego, serta background diri; dan harus menjunjung tinggi sikap belajar mengaktualisasikan diri dalam emosional dan intelektual. Di samping itu hubungan antara Karawang dan Kempaka Bandung Raya adalah layaknya rumah yang harus menjadi tempat perlindungan bagi setiap penghuninya. dalam hal ini Kempaka Bandung Raya yang merupakan anak kandung (penghuni murni) dari karawang, haruslah sebisa mungkin menjaganya agar senantiasa nyaman dan memberi rasa aman terhadap penghuninya, dan bahkan harus menjadi rumah yang berbeda dengan yang lain, karena keberbedaan adalah suatu hal yang dengan mudah dapat dilirik oleh siapapun; dan yang menjadi permasalahannya adalah apakah komentar si pelirik?, negatifkah atau posifkah?, enak dipandangkah?, atau bikin muntah kalau dipandang?. Maka tentunya hal tersebut merupakan Pekerjaan Rumah (PR) besar bagi KEMPAKA Bandung Raya sebagai penghuni murni untuk memberi kepuasan setiap orang dan keberlangsungan karawang yang lebih baik.
+\n
+Dengan demikian dapat dikatakan bahwa KEMPAKA Bandung Raya merupakan asset yang harus berproduksi sebagai agen social of change terhadap Karawang serta merupakan wadah penggodogan generasi muda karawang dalam kesejatian diri sebagai poros perubahan karawang.
+\n
+Strategi Pengembangan KEMPAKA Bandung Raya sebagai Organisasi Kader
+Keberadaan KEMPAKA Bandung Raya sebagai sebuah organisasi kekeluargaan mahasiswa dan pelajar asal kabupaten Karawang yang sedang melaksanakan study di wilayah Bandung Raya tidak terlepas dari kondisi fluktuatifnya; adakalanya aktif dan mampu untuk merubah image KEMPAKA Bandung Raya yang hanya sekedar kumpul dan lebih menekankan pada sisi rekreatifnya, namun sebagai sebuah organisasi yang terdiri dari kalangan mahasiswa dan pelajar harus pula berpikir untuk menjaga keberlangsungan sebagai organisasi yang berfungsi untuk mengkader dan mencetak warganya agar menjadi calon pemimpin yang memiliki sense of leadership dan juga sense of responsibility terhadap kemajuan daerah karawang sebagai tempat bermuara dan mengabdi.
+\n
+Internal KEMPAKA Bandung Raya
+Pokok bahasan strategi adalah pengorganisasian KEMPAKA Bandung raya terhadap internal Bandung Raya juga terhadap komisariat yang berada satu tingkat dibawahnya.
+Kondisi subjektif saat ini adalah kepengurusan KEMPAKA Bandung Raya yang telah mengadakan Musyawarah Besar MUBES yang diharapkan dapat memperbaharui semangat untuk membangun KEMPAKA Bandung Raya secara internal dan teamworking (kelompok kerja) secara eksternal KEMPAKA Bandung Raya dan karawang.
+Secara objektif, semangat berorganisasi dan ber-KEMPAKA ria di kalangan mahasiswa di tiap kampus berbeda-beda, bagi kampus yang secara organisasi telah lebih mapan, dan memiliki sense of organization  berbeda tingkat pengembangan kaderisasi dan anggota komisariatnya. Daripada mahasiswa yang umumnya berada di wilayah komisariat yang lebih umum karena memiliki kecenderungan untuk bergaya hidup dan pola hidup yang lebih fragmatis dan rekreatif sentries.
+Dari dua karakteristik mahasiwa dan organisasi yang berbeda, maka penekanan strategi untuk pengembangan organisasi  KEMPAKA Bandung Raya adalah:
+a.	Untuk komisariat-komisariat yang telah ditetapkan dalam Surat Ketetapan yang sudah berdiri dan berjalan mandiri, pendekatan kegiatan yang diadakan lebih bersifat pada peningkatan kualitas SDM, stabilisasi organisasi dan lebih condong terhadap kaderisasi secara formal
+b.	untuk komisariat-komisariat persiapan, pendekatan kegiatan lebiah bersifat pada recruitment, pembasisan dan pengenalan KEMPAKA Bandung Raya sebagai organisasi primordial yang mewadahi setiap mahasiswa asal karawang untuk berekspresi sesuai dengan hoby dan berpola pada sifat yang rekreatif.
+\n
+Kaderisasi dan Pengkaderan KEMPAKA Bandung Raya\n
+\n1. Latar Belakang Kaderisasi dan Pengkaderan
+Karawang adalah salah satu daerah yang terdapat di provinsi Jawa Barat yang merupakan tempat lahirnya kebudayaan sunda, tumbuh, dan berkembang. Secara Antropologi-Budaya dapat dikatakan bahwa yang disebut suku sunda ialah orang-orang secara turun temurun menggunakan bahasa sunda serta dialeknya dalam kehidupan sehari-hari serta bertempat tinggal di Jawa Barat, daerah yang disebut tatar sunda.
+Tetapi sangat ironis sekali orang sunda tidak tahu tentang asal usulnya sendiri dalam hal ini tentang sejarah dan kebudayaannya, Karawang yang dikenal dengan lumbung padinya tetapi pada kenyataan (orang menyebut) Karawang kota industri, ada apa dengan sebenarnya ?.
+Krisis yang terjadi di daerah Karawang adalah dimana banyaknya masyarakat Karawang yang belum tahu tentang sejarah daerahnya sendiri. Ini disebabkan tidak adanya suatu pendidikan atau pengetahuan tentang sejarah Karawang yang dilakukan oleh pemerintah setempat, tidak ada yang mengakomodir dan mempublikasikan tentang sejarah yang sebenarnya.
+Selain itu perlu kita telaah bersama-sama tentang generasi-generasi kepemimpinan kita yang hanya bisa menginginkan  Karawang yang lebih maju dan besar, sebagai daerah yang lebih banyak menyimpan akan kekayaan alam, tapi mereka lupa dengan asal usulnya daerah Karawang, banyak pemimpin-pemimpin kita pada saat sekarang ini tidak tahu bahkan tidak mau tahu tentang sejarah Karawang, padahal itu sangat perlu diketahui apalagi sebagai seorang pemimpin didaerah Karawang.
+Berangkat dari fenomena yang terjadi itulah dan di dorong oleh keinginan dan tekad yang besar, Keluarga Mahasiswa pelajar karawang (KEmpaka) bandung raya yang menjadi wadah setiap mahasiswa dan pelajar asal karawang yang sedang menimba ilmu melakukan pengkaderan dengan tujuan membentuk sumber daya insani yang bertaqwa kepada Tuhan YME, berilmu dan beramal shaleh serta sadar akan tanggungjawab masa depan masyarakat karawang, bangsa, Negara, dan agama dengan dasar kekeluargaan untuk mewujudkan dan meningkatkan pengkadaren generasi mudan dan social kemasyarakatan cinta dan sadar terhadap sejarah karawang.
+Pola pengkaderan Keluarga mahasiswa pelajar karawang (kempaka) bandung Raya kuarang lebih ada tiga tingkatan dalam pengkadaren. Pertama, Masa penerimaan Anggota kempaka (MAPAK) yang bertujuan menumbuhkan kasadaran terhadap individu rasa saling memiliki dan keterkaitan secara kolektivitas untuk lebih mengenal sejarah, dan menumbuhkan rasa kecintaan terhadap daerah serta berusaha membangun dan memajukan karawang.
+Kedua, Kempaka Training lidershif (KTL) yang bertujuan membangun kebebasan individu dalam berpikir dan inovatif dalam bertindak, tanpa melupakan prodak-prodak sejarah dan kearifan lokal serta menumbuhkan karekter manusia dan social masyarakat yang bertanggungjawab, jujur dan adil.
+Ketiga, KEMPAKA Training Lidershif (KTL) Intermediate yang bertujuan\n
+Membangun keimanan dalam menyakini kebenaran sebagai pondasi dalam menghadapi tantangan jaman dan meingkatkan pengatuahan sebagai pemahaman terhadap keadaan atau medan perjuangan serta menumbuhkan keterampilan.\n</string>
+
+    <string name="apaya">2.	Landasan Kaderisasi dan Pengkaderan\n</string>
+    <string name="landasan">\na)	Landasan Idealis\n</string>
+    <string name="isilan">Landasan idealis dalam pengkadaran adalah sebagai sarana pewarisan atau penurunan nilai-nilai luhur organisasi yang difahami, dan dihayati oleh KEMPAKA kerena menjadi salah satu kekuatan, penjiwaan dan penyemangat untuk setiap perjuangan dan dituangkan dalam kehidupan sehari-hari.\n</string>
+    <string name="landasan2">b)	Landasan Strategis\n</string>
+    <string name="landstra">Landasan strategis pengkaderan adalah sebagai sarana mengasah dan menumbuhkan potensi-potensi anggota dan kader, merupakan upaya membebaskan dalam berpikir dan inovatif dalam bertindak.\n</string>
+    <string name="landpra">c)	Landasan Praktis\n</string>
+    <string name="isilandpra">Landasan praktis pengkaderan adalah sebagai sarana pembangunan social masyarakat yang makmur, aman, damai, tentram, dan sejahtera.\n</string>
+    <string name="lanprag">d)	Landasan Pralangmatis\n</string>
+    <string name="isiprag">Landasan pragmatis pengkaderan adalah sebagai sarana kompetisi hukum alam yang berlaku di tengah kehidupan masyarakat dalam persaingan ditingkat praktis dengan harapan kemenangan KEMPAKA dalam kompetisi membawa kebaikan yang bersifat kolektif karena persaingan tersebut tidak dapat dielakan.\n</string>
+    <string name="landamd">e)	Landasan Administratif\n</string>
+    <string name="isilanamd">Landasan administrative dalam pengkaderan adalah sebagai sarana penegakan mandat organisasi yang tertuang dalam AD/ART yang mengharuskan adanya pengkaderan, maka pengkadaren harus selalu diselenggarakan.\n</string>
+    <string name="azisabdulb_gmail_com">azisabdulb@gmail.com</string>
+    <string name="kempaka">KEMPAKA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="pendataan">PENDATAAN</string>
+    <string name="nama">Name</string>
+    <string name="tanggal">Tanggal Lahir</string>
+    <string name="alamat">Alamat :</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="sd">Sd</string>
+    <string name="smp">Smp</string>
+    <string name="sma">Sma</string>
+    <string name="s1">S1</string>
+    <string name="s2">S2</string>
+    <string name="s3">S3 :</string>
+    <string name="todo">TODO</string>
+    <string name="sebagai">Sebagai :</string>
+    <string name="pendaftaran">Pendaftaran Biodata KEMPAKA</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat_asal">Alamat Asal</string>
+    <string name="masukan_alamat">Masukan Alamat</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="masukan_nama">Masukan Nama</string>
+    <string name="Tempat">Alamat</string>
+    <string name="pencarian">Pencarian</string>
+</resources>
+

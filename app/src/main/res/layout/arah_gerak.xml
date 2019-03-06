@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/idLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/sambut"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="@string/sambutan"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/arah"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/isisam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isisam"
+                android:textAppearance="@style/TextAppearance.AppCompat" />
+
+            <TextView
+                android:id="@+id/muqq"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/muq"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/apa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isilah"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/apaluh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/apaya"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/landasan1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/landasan"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/isilan12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isilan"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/landasan2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/landasan2"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/isilan12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/landstra"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/landprak"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/landpra"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/isilanpra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isilandpra"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/apaajah"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lanprag"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/lah"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isiprag"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/lam"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/landamd"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+
+            <me.biubiubiu.justifytext.library.JustifyTextView
+                android:id="@+id/lama"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/isilanamd"
+                android:textAlignment="center"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
